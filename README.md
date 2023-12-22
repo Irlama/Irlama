@@ -8,8 +8,8 @@
 ![Fiddler](https://img.shields.io/badge/-Fiddler-F2CB144?styel=for-the-badge&logo=Fiddler&logoColo=FFFFFF)
 ![MySql](https://img.shields.io/badge/-MySql-E8F7FD?styel=for-the-badge&logo=MySql&logoColo=167DA1)
 ![VisualStudio](https://img.shields.io/badge/-VisualStudio-0078B9?styel=for-the-badge&logo=VisualStudio&logoColo=0078B9)
-![GitGUI](https://img.shields.io/badge/-GitGUI-E8F7FD?styel=for-the-badge&logo=git&logoColo=167DA1
-![GitGUI](https://img.shields.io/badge/-GitBUSH-E8F7FD?styel=for-the-badge&logo=git&logoColo=167DA1
+![GitGUI](https://img.shields.io/badge/-GitGUI-E8F7FD?styel=for-the-badge&logo=git&logoColo=167DA1)
+![GitGUI](https://img.shields.io/badge/-GitBUSH-E8F7FD?styel=for-the-badge&logo=git&logoColo=167DA1)
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
