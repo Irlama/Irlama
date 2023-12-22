@@ -1,8 +1,8 @@
 ![Header](https://github.com/Irlama/Irlama/blob/main/assets/1.png)
 
-## Меня зовут Ирина Шотель. Я начинающий тестировщик, еще без опыта, но с большим желанием развиваться в этой области.
+### Меня зовут Ирина Шотель. Я начинающий тестировщик, еще без опыта, но с большим желанием развиваться в этой области.
 
-### Языки и инструменты
+## Языки и инструменты
 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?styel=for-the-badge&logo=Postman&logoColor=FFF2ED)
 ![Fiddler](https://img.shields.io/badge/-Fiddler-F2CB144?styel=for-the-badge&logo=Fiddler&logoColo=FFFFFF)
@@ -12,6 +12,6 @@
 ![GitGUI](https://img.shields.io/badge/-GitBUSH-E8F7FD?styel=for-the-badge&logo=git&logoColo=167DA1)
 
 
-### Связаться со мной
+## Связаться со мной
 
 ![Facebook](https://img.shields.io/badge/-Facebook-0077FF?styel=for-the-badge&logo=Facebook&logoColor=FFF2ED)
