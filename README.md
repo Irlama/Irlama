@@ -14,5 +14,6 @@
 
 ## Связаться со мной
 
-![Facebook](https://img.shields.io/badge/-Facebook-0077FF?styel=for-the-badge&logo=Facebook&logoColor=FFF2ED)
+[![Facebook](https://img.shields.io/badge/-Facebook-0077FF?styel=for-the-badge&logo=Facebook&logoColor=FFF2ED)](https://www.facebook.com/irina.shotel)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:qa.irina.shotel@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-@artsiomrusau-blue?style=flat&logo=LinkedIn&logoColor=white)]
