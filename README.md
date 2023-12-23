@@ -19,6 +19,9 @@
 ![GitGUI](https://img.shields.io/badge/-GitBUSH-E8F7FD?styel=for-the-badge&logo=git&logoColo=167DA1)
 
 
+---
+
+
 ## Связаться со мной:
 
 [![Facebook](https://img.shields.io/badge/-Facebook-0077FF?styel=for-the-badge&logo=Facebook&logoColor=FFF2ED)](https://www.facebook.com/irina.shotel)
